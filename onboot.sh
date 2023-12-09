@@ -1,2 +1,2 @@
 termux-wake-lock
-proot-distro login ubuntu -- eval "cd pre-compiled && ./start.sh"
+proot-distro login ubuntu -- eval "cd pre-compiled-ccm && ./start.sh"
